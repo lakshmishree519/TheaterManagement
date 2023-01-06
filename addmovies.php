@@ -20,7 +20,7 @@
 
         <div class="nav">
             
-            <a href="assign1.php">HOME
+            <a href="assign1.php">HOME</a>
             <a  href="logout.php">LOGOUT</a>
             
             
