@@ -5,7 +5,7 @@
         <link rel="icon" href="homepage.jpg">
         <link rel="stylesheet" href="aboutus.css">
     </head>
-    <body>
+    <bodys>
         <div class="header">
         <img class="logo1" src="homepage.jpg">
 
